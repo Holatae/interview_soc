@@ -704,6 +704,7 @@ Så de är absolut att de är också så att alla som är närmsast måste stepp
 00:14:44,230 --> 00:14:48,000
 Det är inte enkelt när man väl har kommit långt
 
+177
 00:14:48,010 --> 00:14:49,180
 Då är det stora beskymmer
 
