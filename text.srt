@@ -1293,7 +1293,7 @@ Så vi jobbar ju dagtid, kvällar och helger.
 I stort sätt, i grunden ligger det på en kväll per vecka.
 
 324
-00:25:14,140 --> 00:25:15,220
+00:25:14,140 --> 00:25:17,220
 Sen kan det varieera. Om det är riskhelger.
 
 325
@@ -1320,74 +1320,214 @@ Men nu i år blir det inte så mycket.
 00:25:34,050 --> 00:25:37,080
 lite sånna då ändrar vi ju.
 
---------------------------------
-Sen kan det vara så att väldigt spåntant att polisen har fått information om att det ska bli en stor ungdomsfrest någonstans.
-Jamen då kanske vi måste jobba. Så kan det bli Ibland
--------------------------------- 
+331
+00:25:37,190 --> 00:25:30,140
+Sen kan det vara så att väldigt spåntant att 
+
+332
+00:25:41,210 --> 00:25:45,010
+polisen har fått information om att det ska bli en stor ungdomsfrest någonstans.
+
+333
+00:25:45,010 --> 00:25:46,090
+Jamen då kanske vi måste jobba.
+
+334
+00:25:47,060 --> 00:25:48,120
+Så kan det bli ibland.
+
+335
+00:25:50,180 --> 00:25:55,110
 Så ibland kan det bli en krissak å då kan de ringa till oss å säga att " nu måste vi ta tag det här".
 
---------------------------------
+336
+00:25:55,170 --> 00:25:56,180
 Man måste jobba över.
 
---------------------------------
-Jo, Om vi har möjlighet så släpper vi förbi alltig och tar det.
+337
+00:25:56,230 --> 00:25:57,100
+Jo,
 
---------------------------------
+338
+00:25:58,120 --> 00:26:01,050
+Om vi har möjlighet så släpper vi förbi alltig och tar det.
 
-För när det handlar om nartkotika så e de ju. Ungdomen kan inte väntea. Vi måste ta tag i det. Även om det är lite besväligt
+339
+00:26:02,190 --> 00:26:05,200
+För när det handlar om nartkotika så e de ju.
 
-Att vi måste in. Men vi gör det. För det känns skönt att ha gjort det. Att komma hem med gott samvete
---------------------------------
-Å de är ju allvarligt. Man måste ta det på en gång
---------------------------------
+340
+00:26:06,200 --> 00:26:09,130
+Ungdomen kan inte vänta. Vi måste ta tag i det.
+
+341
+00:26:09,230 --> 00:26:12,150
+Även om det är lite besväligt
+
+342
+00:26:12,150 --> 00:26:14,060
+Att vi måste in å säga. Men vi gör det.
+
+343
+00:26:14,060 --> 00:26:17,030
+För det känns skönt att ha gjort det.
+
+344
+00:26:17,590 --> 00:26:19,010
+Att komma hem med gott samvete
+
+345
+00:26:19,170 --> 00:26:21,070
+Å de är ju allvarligt.
+
+346
+00:26:22,700 --> 00:26:25,120
+Man måste ta det på en gång
+
+347
+00:26:26,000 --> 00:26:28,040
 Det är ingenting man säger att "det tar vi på måndag". 
-Ugan vi måste ta det. Om en förälder nu då tar vi det.
 
---------------------------------
-Vi har haft narkotika någon gång ner till 6 klass. 7an och 8an är ju inte ovanligt. å 9an och gymnasiet
+349
+00:26:28,800 --> 00:26:32,090
+Utan vi måste ta det. Om en förälder nu då tar vi det.
+
+350
+00:26:33,190 --> 00:26:37,020
+Vi har haft narkotika någon gång ner till 6 klass.
+
+351
+00:26:38,190 --> 00:26:34,030
+7an och 8an är ju inte ovanligt. å 9an och gymnasiet.
+
+352
+00:26:44,060 --> 00:26:45,140
 Det är ju långt ner i åldrarna
---------------------------------
-Men hur blir det då om man känner någon i en annan kommun, i en annan region eller t.ex. andra sidan landet. Som har det problemet
 
---------------------------------
+353
+00:26:46,180 --> 00:26:54,130
+Men hur blir det då om man känner någon i en annan kommun, i en annan region eller t.ex. andra sidan landet.
+
+354
+00:26:54,130 --> 00:26:56,180
+Som har det problemet
+
+355
+00:26:56,180 --> 00:26:57,180
 Då finns det andra fältare
---------------------------------
+
+356
+00:26:58,190 --> 00:27:03,000
 Asså kan man kontakta er eller, hur ska man göra?
---------------------------------
+
+357
+00:27:03,110 --> 00:27:08,090
 Du tänker att de är en ungdom som tillhör i Piteå som bor i Piteå men befinner sig i Umeå?
---------------------------------
+
+358
+00:27:08,090 --> 00:27:09,030
 Eller någon som bor någon annan stans?
---------------------------------
-Ja, bor någon annan stans. kan man kontakta er för jag menar. Man vill ju ändå. kan man kontakta er och be er kontakta resten av socialtjänsten?
---------------------------------
-Ja asså, vi är ju med i fältarna riksförbund. Å dom är ju med i över hela Sverige. Å vi känner ju ganska många av dom.
 
-Så är det något problem med uppsala så kanske ungdomen ska vända sig till fältarna i Uppsala eller Malmö eller var det är.
+359
+00:27:09,030 --> 00:27:10,000
+Ja, bor någon annan stans.
 
-Men om har vi en ungdom från Piteå som är i vift i exempelvis Skellefteå. Då måste vi ju. för det är vår ungdom som bor här.
+360
+00:27:11,040 --> 00:27:14,500
+kan man kontakta er och be er kontakta resten av socialtjänsten eller?
 
---------------------------------
-Å då kan vi ju prata med deras föräldrar. Få deras samtycke och ett kort kanske skickat. Så kan vi skicka till fältarna i Umeå, Skellefteå där vi tror ungdomen är.
-Kan ni hålla lite koll på den här. Om ni ser. ring. så får man kontakta föräldrarna.
+361
+00:27:15,000 --> 00:27:
+Ja asså, vi är ju med i fältarna riksförbund.
 
+362
+00:27:17,160 --> 00:27:20,030
+Å dom är ju med i över hela Sverige.
+
+363
+00:27:20,160 --> 00:27:22,030
+Å vi känner ju ganska många av dom här.
+
+364
+00:27:22,050 --> 00:27:28,050
+Så är det något problem med uppsala så kanske ungdomen ska vända sig till fältarna i Uppsala till exempel
+
+365
+00:27:28,800 --> 00:27:30,060
+eller Malmö eller var det är.
+
+366
+00:27:30,800 --> 00:27:35,120
+Men om har vi en ungdom från Piteå som är i vift i exempelvis Skellefteå.
+
+367
+00:27:36,040 --> 00:27:39,500
+Då måste vi ju. för det är vår ungdom som bor här.
+
+368
+00:27:40,090 --> 00:27:41,050
+Å då kan vi ju
+
+369
+00:27:41,900 --> 00:27:45,020
+prata med deras föräldrar. Få deras samtycke och ett kort kanske skickat. 
+
+370
+00:27:45,020 --> 00:27:49,400
+Så kan vi skicka till fältarna i Umeå, Skellefteå där vi tror ungdomen är.
+
+371
+00:27:49,400 --> 00:27:
+Kan ni hålla lite koll på den här.
+
+372
+00:27:51,500 --> 00:27:56,000
+Om ni ser. ring. så får man kontakta föräldrarna.
+
+373
+00:27:56,000 --> 00:28:04,000
 å säga att han är på Ålidhem i den å den lägenheten eller dom har setts där så får dom aggera.
 
+374
+00:28:04,000 --> 00:28:06,000
 Vi kan ju inte göra något där.
 
---------------------------------
+375
+00:28:08,180 --> 00:28:11,070
 Vårat arbetsområde är egentligen Norrbotten.
 
---------------------------------
+376
+00:28:12,700 --> 00:28:14,060
 Piteå Specifikt.
 
---------------------------------
-Vi är dom enda i Norrbotten med fältare. Det finns inga i Luleå.
+377
+00:28:14,450 --> 00:28:17,200
+Vi är dom enda i Norrbotten med fältare.
 
-Sen finns det i Skellefteå och neråt i Landet
---------------------------------
-Men jag tänker absoliut. Har du en kompis som du är orolig för någon annan stans i landet. 
+378
+00:28:18,050 --> 00:28:19,500
+Det finns inga i Luleå.
 
-Skriv och be oss om råd eller absolut kontakta oss. Se vad vi kan hjälpa med
+379
+00:28:20,600 --> 00:28:23,040
+Sen finns det i Skellefteå och neråt i Landet.
 
---------------------------------
-Vi kan ju hänvisa till fältarna i Bromma
+380
+00:28:24,500 --> 00:28:25,700
+Men jag tänker absolut.
+
+381
+00:28:26,300 --> 00:28:30,500
+Är det så, har du en kompis som du är orolig för någon annan stans i landet. 
+
+382
+00:28:32,000 --> 00:28:35,060
+Skriv och be oss om råd eller absolut kontakta oss.
+
+383
+00:28:36,000 --> 00:28:37,900
+Se vad vi kan hjälpa med
+
+384
+00:28:38,600 --> 00:26:43,000
+Vi kan ju hänvisa till fältarna i Bromma eller vart det nu är
