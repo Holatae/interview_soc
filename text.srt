@@ -1,18 +1,18 @@
 1
 00:00:01,000 --> 00:00:02,000
-(Victor) Hejsan, Jag heter Victor och jag är bäst
+Hejsan, Jag heter Victor och jag är bäst
 
 2 
 00:00:02,210 --> 00:00:05,000
-(Victor) Amen perfekt, nu har det börjat?
+Amen perfekt, nu har det börjat?
 
 3
 00:00:05,070 --> 00:00:05,800
-(Victor) Amen perfekt.
+Amen perfekt.
 
 4
 00:00:06,050 --> 00:00:10,050
-(Victor) Amen hej och välkommna allihopa till Ung i Piteås Instagram
+Amen hej och välkommna allihopa till Ung i Piteås Instagram
 
 5
 00:00:10,150 --> 00:00:14,150
